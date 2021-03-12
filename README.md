@@ -4,7 +4,7 @@ A repository of various Misc Google Apps Scripts.
 
 * [Create onOpen Menu](./Create_onOpen_Menu.md)
 * [Delete Project Triggers](./Delete_Project_Triggers.md)
-* [Get Id From Url(./Get_Id_From_Url.md)
+* [Get Id From Url](./Get_Id_From_Url.md)
 
 
 ---
