@@ -2,7 +2,7 @@
 
 A repository of various Misc Google Apps Scripts.
 
-* [Delete Project Triggers]()
+* [Delete Project Triggers](./Delete_Project_Triggers.md)
 
 
 ---
