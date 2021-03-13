@@ -7,6 +7,7 @@ This script adds an onFormSubmit() trigger to a Google Form
 
 ```javascript
 function enableSubmitTrigger(triggerFunction = 'mySubmitTrigger') {
+  let submitTriggers;
   ScriptApp.getProjectTriggers()
       .filter(trigger => trigger.getEventType() === ScriptApp.EventType.ON_FORM_SUBMIT && trigger.getHandlerFunction() === triggerFunction);   
   if (submitTriggers.length < 1) {
