@@ -6,6 +6,7 @@ A repository of various Misc Google Apps Scripts.
 * [Create onFormSubmit Trigger](./Create_onFormSubmit_Trigger.md)
 * [Delete Project Triggers](./Delete_Project_Triggers.md)
 * [Get Id From Url](./Get_Id_From_Url.md)
+* [Get Weekday By Name](./Get_Weekday_By_Name.md)
 * [Use UrlFetch](./Use_UrlFetch.md)
 
 
