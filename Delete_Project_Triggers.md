@@ -33,10 +33,10 @@ This script deletes the project clock triggers.
  * Delete existing clock based triggers
  */
 function deleteExistingClockTriggers() {
-   ScriptApp.getProjectTriggers().forEach(trigger {
+   ScriptApp.getProjectTriggers().forEach(trigger => {
      if (trigger.getEventType() == ScriptApp.EventType.CLOCK) {
        ScriptApp.deleteTrigger(trigger);
      }
-   }
+   });
 }
 ```
