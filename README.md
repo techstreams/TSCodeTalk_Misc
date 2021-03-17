@@ -1,5 +1,12 @@
 # TSCodeTalk_Misc
 
+*If you like these free [Google Workspace Apps Script](https://developers.google.com/apps-script) resources, please consider buying me a cup of coffee!* 
+
+
+[![](https://techstreams.github.io/images/bmac.svg)](https://www.buymeacoffee.com/techstreams)
+
+---
+
 A repository of various Misc Google Apps Scripts.
 
 * [Create onOpen Menu](./Create_onOpen_Menu.md)
