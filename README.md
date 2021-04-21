@@ -11,6 +11,8 @@ A repository of various Misc Google Apps Scripts.
 
 * [Create onOpen Menu](./Create_onOpen_Menu.md)
 * [Create onFormSubmit Trigger](./Create_onFormSubmit_Trigger.md)
+* [Delete File By Mimetype](./Delete_File_By_Mimetype.md)
+* [Delete File Viewers](./Delete_File_Viewers.md)
 * [Delete Project Triggers](./Delete_Project_Triggers.md)
 * [Get Id From Url](./Get_Id_From_Url.md)
 * [Get Weekday By Name](./Get_Weekday_By_Name.md)
