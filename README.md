@@ -16,6 +16,8 @@ A repository of various Misc Google Apps Scripts.
 * [Delete Project Triggers](./Delete_Project_Triggers.md)
 * [Get Id From Url](./Get_Id_From_Url.md)
 * [Get Weekday By Name](./Get_Weekday_By_Name.md)
+* [Show Alert](./Show_Alert.md)
+* [Show Prompt](./Show_Prompt.md)
 * [Use UrlFetch](./Use_UrlFetch.md)
 
 
