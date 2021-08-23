@@ -17,7 +17,9 @@ A repository of various Misc Google Apps Scripts.
 * [Get Id From Url](./Get_Id_From_Url.md)
 * [Get Weekday By Name](./Get_Weekday_By_Name.md)
 * [Show Alert](./Show_Alert.md)
+* [Show Dialog](./Show_Dialog.md)
 * [Show Prompt](./Show_Prompt.md)
+* [Show Sidebar](./Show_Sidebar.md)
 * [Use UrlFetch](./Use_UrlFetch.md)
 
 
